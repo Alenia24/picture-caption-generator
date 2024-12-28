@@ -35,10 +35,11 @@ input[type="text"] {
 input[type="text"]:focus {
     outline: none;
 }
+
 button {
   background-color: transparent;
   border: none;
-  color: #545454;
+  color: white;
   cursor: pointer;
   position: relative;
   left: -100px;
@@ -63,7 +64,7 @@ button {
 
 #search {
     display: block;
-    margin: 30px auto;
+    margin: 20px auto;
 }
 
 footer {
