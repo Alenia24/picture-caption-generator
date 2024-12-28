@@ -47,7 +47,7 @@ button {
 
 .container {
   max-width: 500px;
-  margin: 120px auto;
+  margin: 70px auto;
   padding: 30px;
   background-color: #191818;
   border-radius: 8px;
@@ -55,16 +55,20 @@ button {
 }
 
 .gift {
-    width: 400px;
-    border-radius: 6px;
-    padding: 20px 25px;
-    margin: 0 auto;
-    background-color: #000000;
+  width: 400px;
+  border-radius: 6px;
+  padding: 10px 25px;
+  margin: 0 auto;
+  background-color: #000000;
+}
+
+.gift strong{
+  color: lightblue;
 }
 
 #search {
-    display: block;
-    margin: 20px auto;
+  display: block;
+  margin: 20px auto;
 }
 
 footer {
